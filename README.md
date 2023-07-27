@@ -12,11 +12,9 @@
 ## Summary
 
 This project aims to create an ETL pipeline that takes data from 7 sources, processes them and uploads them to a data warehouse. The data warehouse facilitates the analysis of the US immigration phenomenon using Business Intelligence applications. With the help of the data stored in it, it is possible to identify:
-- if there is any correlation between the phenomenon of global warming and the origin of immigrants
-- if there is an increase/decrease in immigrants from certain states
-- which are the main states where immigrants go
+- what are the major immigrates in states
 - what is the age distribution of immigrants
-- etc.
+
 The code tested on udacity data enginnering workspace.
 
 ## Data Sources
