@@ -35,7 +35,7 @@ The following datasets are included in the project workspace. We purposely did n
 ## ETL Model
 
 <p align="center">
-  <img width="712" height="618" src="docs/etl_model.png">
+  <img width="712" height="618" src="docs/etl_model.PNG">
 </p>  
 
 
