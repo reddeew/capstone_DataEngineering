@@ -22,9 +22,9 @@ The code tested on udacity data enginnering workspace.
 7 data sources are used in this project. 4 of them are suggested by Udacity  Project and 3 of them are taken from various web pages. A small description of each of them can be found below:
 The following datasets are included in the project workspace. We purposely did not include a lot of detail about the data and instead point you to the sources. This is to help you get experience doing a self-guided project and researching the data yourself. If something about the data is unclear, make an assumption, document it, and move on. Feel free to enrich your project by gathering and including additional data sources.
 
--I94 Immigration Data: This data comes from the US National Tourism and Trade Office. A data dictionary is included in the workspace. This is where the data comes from. There's a sample file so you can take a look at the data in csv format before reading it all in. You do not have to use the entire dataset, just use what you need to accomplish the goal you set at the beginning of the project.
--World Temperature Data: This dataset came from Kaggle. You can read more about it here.
--U.S. City Demographic Data: This data comes from OpenSoft. You can read more about it here.
+- I94 Immigration Data: This data comes from the US National Tourism and Trade Office. A data dictionary is included in the workspace. This is where the data comes from. There's a sample file so you can take a look at the data in csv format before reading it all in. You do not have to use the entire dataset, just use what you need to accomplish the goal you set at the beginning of the project.
+- World Temperature Data: This dataset came from Kaggle. You can read more about it here.
+- U.S. City Demographic Data: This data comes from OpenSoft. You can read more about it here.
 - Airport Code Table: This is a simple table of airport codes and corresponding cities. It comes from here.
 - [Country Codes](https://countrycode.org/): This site provides the name and 2-letter code of all countries in the world.
 - [US States Codes](https://www23.statcan.gc.ca/imdb/p3VD.pl?Function=getVD&TVD=53971):  This site provides the name and 2-letter code of all US states.
