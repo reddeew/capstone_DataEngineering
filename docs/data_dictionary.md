@@ -95,7 +95,7 @@ country temparature evalution
 | longitude             | The longitude of the GPS coordinates.        
 
 
-immigration application table
+Fact - immigration application table
 
 | Column              | Description                                                           |
 | ------------------- | --------------------------------------------------------------------- |
