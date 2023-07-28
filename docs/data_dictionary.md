@@ -1,5 +1,3 @@
-It is the fact table in the data model. It has as a data source both the I94 Immigration Data dataset and the visa, status_flag and arrival_mode tables from which it takes the id columns. This table contains information about applications submitted by immigrants.
-
 This dataset contains demographic information for each US state.
 
 | Column               | Description                                               |
