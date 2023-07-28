@@ -119,3 +119,49 @@ immigration application table
 | status_flag_id      | The ID indicating information about the status of various flags in the status_flag table. |
 | birth_country       | 3-digit code indicating the applicant's country of birth.            |
 | residence_country   | 3-digit code indicating the applicant's country of residence.        |
+
+visa table
+
+# Dataset Description
+
+This dataset contains information related to applicants and their admissions to the USA, including visa details and other relevant information.
+
+| Column              | Description                                                           |
+| ------------------- | --------------------------------------------------------------------- |
+| file_id             | The unique number of the file.                                       |
+| ins_number          | INS number.                                                           |
+| admission_number    | Admission Number.                                                     |
+| applicant_age       | Age of the applicant.                                                 |
+| applicant_birth_year | The applicant's year of birth.                                       |
+| gender              | Gender of the applicant.                                              |
+| occupation          | A 3-character code indicating the occupation the applicant will have in the U.S. |
+| visa_id             | The ID that indicates the visa information in the visa table.        |
+| application_date    | The date the application was added to the I94 files.                 |
+| admission_port_code | Port of admission.                                                    |
+| arrival_state_code  | The US state where the applicant arrived.                            |
+| arrival_mode_id     | The ID indicating information about how the applicant arrived in the US in the arrival_mode table. |
+| arrival_date        | Date of the applicant's arrival to the US.                            |
+| departure_date      | Date of the applicant's departure to the US.                          |
+| limit_date          | The deadline until which the applicant has the right to stay in the USA. |
+| status_flag_id      | The ID indicating information about the status of various flags in the status_flag table. |
+| birth_country       | 3-digit code indicating the applicant's country of birth.            |
+| residence_country   | 3-digit code indicating the applicant's country of residence.        |
+
+admistion port table
+
+| Column                | Description                                                                                   |
+| --------------------- | --------------------------------------------------------------------------------------------- |
+| admission_port_code   | A 3-letter code indicating the port of admission.                                            |
+| admission_port        | A description of the admission port code indicating information about its location.        |
+
+
+# US States Dimension Table
+
+This dimension table contains information about US states.
+
+| Column       | Description                                   |
+| ------------ | --------------------------------------------- |
+| state_code   | A 2-letter code indicating the US state name. |
+| state        | US state name.                                |
+
+
