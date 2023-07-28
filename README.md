@@ -12,7 +12,8 @@
 ## Summary
 
 This project aims to create an ETL pipeline that takes data from 7 sources, processes them and uploads them to a data warehouse. The data warehouse facilitates the analysis of the US immigration phenomenon using Business Intelligence applications. With the help of the data stored in it, it is possible to identify:
--  Analyse immigrants from certain state(up/down)
+-  find the country with the highest number of immigrants 
+-  find the number of immigrants based on visa_type
 
 
 The code tested on udacity data enginnering workspace.
