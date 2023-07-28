@@ -56,9 +56,9 @@ ETL Model - ![image](https://github.com/reddeew/capstone_DataEngineering/assets/
 
 ### tools used -
 
-Spark
-S3
-Pandas
+- Spark - To process large files
+- S3 - to store data as datalake
+- Pandas - to analyse data in dataframes
 
   
 To run the pipeline, the next steps have to be followed:
