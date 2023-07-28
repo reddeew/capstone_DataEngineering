@@ -32,10 +32,10 @@ The following datasets are included in the project workspace. We purposely did n
 
 ## ETL Model
 
- 
 
-ETL Model - ![image](https://github.com/reddeew/capstone_DataEngineering/assets/104558072/bc346013-beb1-448e-a6d2-a5f17fb87755)
-
+<p align="center">
+  <img width="712" height="618" src="docs/etl_model.JPG">
+</p> 
 
 
 - **globalcity tempature evalution**: is a dimension table whose data source is the World Temperature Data dataset. It stores the average monthly temperatures of each country from 1743 to 2013.
