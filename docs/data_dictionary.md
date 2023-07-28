@@ -12,7 +12,7 @@ This dataset contains demographic information for each US state.
 | average_household_size | Average household size in the state.    
 
 
-#arrival_mode table
+# arrival_mode table
 
  Column           | Description                                                           |
 | ---------------- | --------------------------------------------------------------------- |
@@ -22,7 +22,7 @@ This dataset contains demographic information for each US state.
 | airline          | A code consisting of 1 to 3 characters representing the airline code used to arrive in the U.S. |
 | flight_number    | A 1- to 5-character code that represents the airline flight number used to arrive in the U.S. |
 
-#date table
+# date table
 | Column         | Description                                   |
 | -------------- | --------------------------------------------- |
 | date           | The date in the format YYYY-MM-DD.           |
@@ -34,7 +34,7 @@ This dataset contains demographic information for each US state.
 | day_of_month   | Day number of the month.                     |
 | day_of_year    | Day number of the year.                      |
 
-#status_flag table
+# status_flag table
 
 | Column          | Description                                     |
 | --------------- | ----------------------------------------------- |
@@ -43,7 +43,7 @@ This dataset contains demographic information for each US state.
 | update_flag     | 1 character indicating the update flag.        |
 | match_flag      | 1 character indicating the match flag.         |
 
-#global temparature table
+# global temparature table
 
 | Column                           | Description                                                         |
 | -------------------------------- | ------------------------------------------------------------------- |
@@ -54,7 +54,7 @@ This dataset contains demographic information for each US state.
 | average_temperature              | Average temperature during the recorded month.                      |
 | average_temperature_uncertainty  | Average temperature uncertainty during the recorded month.          |
 
-#world airprots table
+# world airprots table
 
 | Column                | Description                                                                                   |
 | --------------------- | --------------------------------------------------------------------------------------------- |
@@ -74,7 +74,7 @@ This dataset contains demographic information for each US state.
 | latitude              | The latitude of the GPS coordinates.                                                         |
 | longitude             | The longitude of the GPS coordinates.     
 
-#country temparature evalution
+# country temparature evalution
 
 | Column                | Description                                                                                   |
 | --------------------- | --------------------------------------------------------------------------------------------- |
@@ -95,7 +95,7 @@ This dataset contains demographic information for each US state.
 | longitude             | The longitude of the GPS coordinates.        
 
 
-#Fact - immigration application table
+# Fact - immigration application table
 
 | Column              | Description                                                           |
 | ------------------- | --------------------------------------------------------------------- |
@@ -118,7 +118,7 @@ This dataset contains demographic information for each US state.
 | birth_country       | 3-digit code indicating the applicant's country of birth.            |
 | residence_country   | 3-digit code indicating the applicant's country of residence.        |
 
-#visa table
+# visa table
 
 
 
@@ -145,7 +145,7 @@ This dataset contains information related to applicants and their admissions to 
 | birth_country       | 3-digit code indicating the applicant's country of birth.            |
 | residence_country   | 3-digit code indicating the applicant's country of residence.        |
 
-#admistion port table
+# admistion port table
 
 | Column                | Description                                                                                   |
 | --------------------- | --------------------------------------------------------------------------------------------- |
